@@ -1,0 +1,31 @@
+# Ignore build files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vscode/
+.idea/
+
+# Ignore Unreal Engine-specific files
+*.sln
+*.suo
+*.user
+*.userosscache
+*.o
+*.obj
+*.pdb
+*.idb
+*.res
+*.pch
+*.aps
+*.ncb
+*.log
+*.tlog
+*.ipch
+*.iobj
+*.ipdb
+
+# Ignore Unreal Engine asset backups
+Backup/
+*.tmp
+*.bak
